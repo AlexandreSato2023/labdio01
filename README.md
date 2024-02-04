@@ -15,7 +15,11 @@ Os dados estão disponíveis no arquivo sorvetes_ia.csv, com as seguintes coluna
 * Visual Studio 2022
 * C# .NET
 * Microsoft Azure
- 
+
+## Projeto C# .NET
+
+O arquivo [LabDioAI01/SalesForecastService.cs](LabDioAI01/SalesForecastService.cs) tem as chamadas para os pontos de extremidades criados no Azure
+
 ## Etapas do Projeto:
 
 ### Análise Exploratória de Dados (EDA):
