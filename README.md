@@ -20,6 +20,8 @@ Os dados estão disponíveis no arquivo sorvetes_ia.csv, com as seguintes coluna
 
 O arquivo [LabDioAI01/SalesForecastService.cs](LabDioAI01/SalesForecastService.cs) tem as chamadas para os pontos de extremidades criados no Azure
 
+client.BaseAddress = new Uri("https://icecreamsalesiamodel.centralus.inference.ml.azure.com/score");
+
 ## Etapas do Projeto:
 
 ### Análise Exploratória de Dados (EDA):
