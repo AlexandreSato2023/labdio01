@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LabDioAI01/.vs/LabDioAI01/DesignTimeBuild
+/LabDioAI01/.vs/LabDioAI01/FileContentIndex
+/LabDioAI01/.vs/LabDioAI01/v17
+/LabDioAI01/.vs/ProjectEvaluation
+/LabDioAI01/bin/Debug/net8.0
+/LabDioAI01/obj
+/TestLabDio01/bin/Debug/net8.0
+/TestLabDio01/obj
